@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "brand": "AEM Precision",
+    "slogan": "Veriyle doğrulanan üretim",
+    "description": "Tasarımdan teste tek çatı altında yüksek hassasiyetli üretim çözümleri sunuyoruz.",
+    "cta": "Teklif Al"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "sectors": "Sektörler",
+    "projects": "Projeler",
+    "facility": "Tesis & Makine Parkı",
+    "quality": "Kalite",
+    "process": "Süreç",
+    "blog": "Blog",
+    "careers": "Kariyer",
+    "rfq": "RFQ",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "headline": "Tasarımdan teste tek çatı altında yüksek hassasiyetli üretim.",
+    "subheadline": "Havacılık, enerji, petrol-gaz, savunma ve endüstriyel makine sektörlerinde %99.7 teslim performansı ve ±0.01 mm tolerans güvencesi.",
+    "kpi": [
+      {
+        "label": "Maks İşleme Zarfı",
+        "value": "Ø1250 mm"
+      },
+      {
+        "label": "Tolerans",
+        "value": "±0.01 mm"
+      },
+      {
+        "label": "Yüzey Pürüzlülüğü",
+        "value": "Ra 0.2 μm"
+      },
+      {
+        "label": "Sertlik",
+        "value": "HRC 58-63"
+      }
+    ],
+    "socialProof": "⭐️⭐️⭐️⭐️⭐️ 4.9/250+ denetim"
+  },
+  "sections": {
+    "competencies": {
+      "title": "Yetkinlikler",
+      "items": [
+        {
+          "title": "Tasarım & CAE",
+          "description": [
+            "FEM/CFD analizleriyle optimize tasarım",
+            "Tolerans yığın analizi",
+            "Hızlı prototip doğrulama"
+          ],
+          "tooltip": "Abaqus, Ansys, Siemens NX CAE altyapısı"
+        },
+        {
+          "title": "CNC İşleme",
+          "description": [
+            "5-eksen HSC freze ve torna",
+            "Paletli üretim hatları",
+            "Otamatik prob ölçüm"
+          ],
+          "tooltip": "Hermle, DMG Mori, Mazak parkuru"
+        },
+        {
+          "title": "Isıl İşlem",
+          "description": [
+            "Vakum sertleştirme",
+            "Düşük deformasyonlu temperleme",
+            "Kriyojenik stabilizasyon"
+          ],
+          "tooltip": "AMS 2750, NADCAP uyumlu"
+        },
+        {
+          "title": "Dişli & Rotor",
+          "description": [
+            "AGMA Q13 hassasiyet",
+            "Helisel/planet dişli",
+            "Rotor balans G2.5"
+          ],
+          "tooltip": "Klingelnberg & Hofler hatları"
+        },
+        {
+          "title": "Kalite & Test",
+          "description": [
+            "CMM + lazer tarama",
+            "UT/MT/PT tahribatsız test",
+            "ISO 1940-1 dinamik balans"
+          ],
+          "tooltip": "Zeiss ACCURA, Waygate UT"
+        }
+      ],
+      "subtitle": "FEM, CNC, ısıl işlem ve kalite süreçlerinde uçtan uca uzmanlık."
+    },
+    "process": {
+      "title": "Sonuç Odaklı Süreç",
+      "steps": [
+        {
+          "title": "Keşif",
+          "description": "RFQ, teknik şartname ve hedef metriklerin toplanması.",
+          "deliverable": "Risk analizi & teklif"
+        },
+        {
+          "title": "Tasarım",
+          "description": "CAD/CAE iterasyonları, DFMA & APQP planlama.",
+          "deliverable": "Onaylı tasarım dosyası"
+        },
+        {
+          "title": "Prototip",
+          "description": "Hızlı numune üretimi, CMM ve FAI raporu.",
+          "deliverable": "FAI raporu"
+        },
+        {
+          "title": "Üretim",
+          "description": "Seri üretim, SPC izleme, tam izlenebilirlik.",
+          "deliverable": "Üretim lot dosyası"
+        },
+        {
+          "title": "Test",
+          "description": "UT/MT/PT, balans, basınç ve sızdırmazlık testleri.",
+          "deliverable": "Kalite sertifikaları"
+        },
+        {
+          "title": "Lojistik",
+          "description": "Özel paketleme, ITAR uyumlu sevkiyat.",
+          "deliverable": "CoC & lojistik planı"
+        }
+      ],
+      "deliverableLabel": "Teslimat",
+      "subtitle": "Her adım için teslimat ölçütlerini şeffaf paylaşır, KPI odaklı yönetiriz."
+    },
+    "certifications": {
+      "title": "Kalite & Sertifikalar",
+      "description": "Endüstri standartlarını aşan kalite yönetim sistemlerimizle riskinizi azaltıyoruz.",
+      "items": [
+        {
+          "name": "ISO 9001",
+          "file": "/downloads/iso9001.pdf"
+        },
+        {
+          "name": "ISO 1940-1",
+          "file": "/downloads/iso1940-1.pdf"
+        },
+        {
+          "name": "API 619",
+          "file": "/downloads/api619.pdf"
+        },
+        {
+          "name": "EN 10228-3",
+          "file": "/downloads/en10228-3.pdf"
+        }
+      ]
+    },
+    "projects": {
+      "title": "Öne Çıkan Projeler",
+      "items": [
+        {
+          "name": "Havacılık Turbo Pompa",
+          "problem": "Yüksek sıcaklıkta ±0.01 mm toleranslı rotor.",
+          "approach": "5-eksen eşzamanlı işleme + in-situ prob.",
+          "result": "%32 verim artışı, G2.5 balans, HRC 62.",
+          "metrics": "Ra 0.2 μm, teslim 18 gün",
+          "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "name": "Petrol & Gaz Kompresör",
+          "problem": "API 619 uyumlu dişli kutusu titreşimi.",
+          "approach": "AGMA Q13 grind finishing, UT & MT testleri.",
+          "result": "Titreşim %28 azaldı, teslim 22 gün.",
+          "metrics": "Balans G1 @ 3600 rpm",
+          "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "name": "Enerji Türbin Diski",
+          "problem": "800°C çalışma, düşük deformasyon.",
+          "approach": "Vakum ısıl işlem + kriyojenik stabilizasyon.",
+          "result": "HRC 63, ölçüm sapması ±0.008 mm.",
+          "metrics": "Ra 0.4 μm, teslim 24 gün",
+          "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80"
+        }
+      ],
+      "labels": {
+        "problem": "Problem",
+        "approach": "Yaklaşım",
+        "result": "Sonuç"
+      },
+      "subtitle": "Problem → çözüm → sonuç akışında ölçülebilir kazanımlar."
+    },
+    "facility": {
+      "title": "Tesis & Makine Parkı",
+      "description": "1280 m² iklim kontrollü tesis, 5-eksen CNC hücreleri ve otomatik lojistik.",
+      "machines": [
+        {
+          "machine": "Hermle C52 U MT",
+          "envelope": "Ø1000 x 800 mm",
+          "precision": "±0.008 mm",
+          "count": 3,
+          "note": "5-eksen torna/freze"
+        },
+        {
+          "machine": "DMG Mori DMU 75",
+          "envelope": "750 x 650 x 560 mm",
+          "precision": "±0.01 mm",
+          "count": 4,
+          "note": "Paletli üretim"
+        },
+        {
+          "machine": "Mazak Integrex i-300",
+          "envelope": "Ø610 x 1519 mm",
+          "precision": "±0.01 mm",
+          "count": 2,
+          "note": "Hibrit işleme"
+        },
+        {
+          "machine": "Zeiss Accura CMM",
+          "envelope": "900 x 1200 x 800 mm",
+          "precision": "±0.003 mm",
+          "count": 2,
+          "note": "CMM ölçüm"
+        },
+        {
+          "machine": "Schenck CAB 9200",
+          "envelope": "Ø1500 mm",
+          "precision": "G1 @ 5000 rpm",
+          "count": 1,
+          "note": "Dinamik balans"
+        }
+      ],
+      "columns": {
+        "machine": "Makine",
+        "envelope": "İşleme Zarfı",
+        "precision": "Hassasiyet",
+        "count": "Adet",
+        "note": "Not"
+      }
+    },
+    "sectors": {
+      "title": "Hizmet Verdiğimiz Sektörler",
+      "items": [
+        {
+          "name": "Havacılık",
+          "description": "EASA Part 21G süreçleriyle tam izlenebilir üretim.",
+          "metrics": "FAI %100, ITAR uyumlu"
+        },
+        {
+          "name": "Enerji",
+          "description": "Gaz ve buhar türbin bileşenlerinde 24/7 çalışma garantisi.",
+          "metrics": "%99 uptime"
+        },
+        {
+          "name": "Petrol & Gaz",
+          "description": "API, NACE ve GOST standartlı yüksek basınçlı parçalar.",
+          "metrics": "HPHT onaylı"
+        },
+        {
+          "name": "Savunma",
+          "description": "ITAR/AS9100 süreç uyumu ve hassas mühendislik.",
+          "metrics": "MIL-STD 810 testleri"
+        },
+        {
+          "name": "Endüstriyel Makine",
+          "description": "Yüksek tork dişli ve rotor sistemleri.",
+          "metrics": "AGMA Q13"
+        }
+      ],
+      "subtitle": "Satınalma, kalite ve teknik ekiplerin ortak KPI’larına hizalanmış prosesler."
+    },
+    "clients": {
+      "title": "Güvenen Markalar",
+      "logos": [
+        "AeroDynamics",
+        "EnerTech",
+        "PetroCore",
+        "DefSecure",
+        "MachinaPro",
+        "Orbit Systems"
+      ]
+    },
+    "blog": {
+      "title": "Teknik İçgörüler",
+      "items": [
+        {
+          "title": "ISO 1940-1 Balans Sınıflarının Karşılaştırması",
+          "excerpt": "G2.5 ve G1 sınıfları arasındaki farkları proses örnekleriyle analiz ediyoruz.",
+          "date": "2024-05-12",
+          "readingTime": "6 dk",
+          "slug": "iso-1940-1-balans"
+        },
+        {
+          "title": "CFD ile Pompa Verimliliğini %18 Artırma",
+          "excerpt": "Çok fazlı akış analizleriyle rotor tasarımında elde edilen kazanımlar.",
+          "date": "2024-04-02",
+          "readingTime": "8 dk",
+          "slug": "cfd-pompa-verim"
+        },
+        {
+          "title": "AGMA Q13 Dişli Üretiminde Ölçülebilir KPI'lar",
+          "excerpt": "Dişli hatlarımızda SPC ve kapalı çevrim ölçüm yaklaşımımız.",
+          "date": "2024-03-18",
+          "readingTime": "5 dk",
+          "slug": "agma-q13-kpi"
+        }
+      ],
+      "cta": "Tüm içerikler",
+      "subtitle": "Standart kıyaslamaları, proses optimizasyonları ve ölçülebilir metriklerle teknik makaleler.",
+      "read": "Oku"
+    },
+    "careers": {
+      "title": "Kariyer & Kültür",
+      "description": "Çapraz disiplinli mühendislik ekiplerimizle ileri üretim teknolojileri geliştiriyoruz.",
+      "positions": [
+        {
+          "title": "Kıdemli CNC Ustabaşı",
+          "location": "İzmir",
+          "type": "Tam Zamanlı",
+          "summary": "5-eksen hat yönetimi, takım yolu optimizasyonu.",
+          "id": "senior-cnc"
+        },
+        {
+          "title": "Malzeme ve Proses Mühendisi",
+          "location": "İzmir",
+          "type": "Tam Zamanlı",
+          "summary": "Isıl işlem reçeteleri, malzeme karakterizasyonu.",
+          "id": "materials-process"
+        }
+      ],
+      "cta": "Kariyer Portalı",
+      "apply": "Başvur"
+    },
+    "rfq": {
+      "title": "RFQ / Teklif Formu",
+      "description": "CAD dosyanızı paylaşın, hedef tolerans ve teslim süresi için teklifimizi alın.",
+      "steps": [
+        "Firma Bilgisi",
+        "Parça Türü",
+        "Malzeme",
+        "Adet",
+        "Tolerans / Ra",
+        "Dosya Yükle",
+        "Teslim Süresi & Incoterms",
+        "Gönder"
+      ],
+      "success": "Teşekkürler! Teknik ekibimiz 24 saat içinde size dönüş yapacak.",
+      "errors": {
+        "required": "Bu alan zorunlu",
+        "email": "Geçerli bir e-posta girin",
+        "file": "Desteklenen formatlar: .step, .iges, .dxf, .pdf",
+        "size": "Dosya boyutu 200MB'den küçük olmalı",
+        "captcha": "reCAPTCHA doğrulanamadı"
+      },
+      "buttons": {
+        "prev": "Geri",
+        "next": "İleri",
+        "submit": "Gönder"
+      },
+      "labels": {
+        "company": "Firma Adı",
+        "email": "Kurumsal E-posta",
+        "phone": "Telefon",
+        "partType": "Parça Türü",
+        "toleranceClass": "Tolerans Sınıfı",
+        "material": "Malzeme",
+        "message": "Ek Notlar",
+        "quantity": "Adet",
+        "leadTime": "Teslim Süresi",
+        "tolerance": "Tolerans / Ra",
+        "incoterms": "Incoterms",
+        "files": "CAD / Teknik Doküman",
+        "captcha": "reCAPTCHA"
+      }
+    },
+    "contact": {
+      "title": "İletişim",
+      "description": "İki kıtaya yayılan mühendislik ofislerimizle hizmetinizdeyiz.",
+      "offices": [
+        {
+          "name": "Merkez Tesis",
+          "address": "AOSB 10044 Sok. No:12 Çiğli / İzmir",
+          "hours": "Hafta içi 08:00-18:00",
+          "phone": "+90 232 000 00 00"
+        },
+        {
+          "name": "Moskova Teknik Ofis",
+          "address": "Leninskiy Prospekt 45, Moskova",
+          "hours": "Hafta içi 09:00-17:00",
+          "phone": "+7 495 123 45 67"
+        }
+      ],
+      "notice": "SPF/DKIM yapılandırması ve reCAPTCHA koruması etkin."
+    }
+  },
+  "footer": {
+    "rights": "© AEM Precision 2024. Tüm hakları saklıdır.",
+    "privacy": "KVKK & Gizlilik",
+    "terms": "Şartlar"
+  }
+}

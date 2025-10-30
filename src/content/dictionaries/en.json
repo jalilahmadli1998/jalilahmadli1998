@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "brand": "AEM Precision",
+    "slogan": "Veriyle doğrulanan üretim",
+    "description": "We deliver precision manufacturing from design to testing under one roof.",
+    "cta": "Request a Quote"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Capabilities",
+    "sectors": "Industries",
+    "projects": "Projects",
+    "facility": "Facility",
+    "quality": "Quality",
+    "process": "Process",
+    "blog": "Insights",
+    "careers": "Careers",
+    "rfq": "RFQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "High-precision manufacturing from concept to test under one roof.",
+    "subheadline": "Trusted by aerospace, energy, oil & gas, defense, and industrial OEM teams with 99.7% OTD and ±0.01 mm tolerance assurance.",
+    "kpi": [
+      {
+        "label": "Max Envelope",
+        "value": "Ø1250 mm"
+      },
+      {
+        "label": "Tolerance",
+        "value": "±0.01 mm"
+      },
+      {
+        "label": "Surface Finish",
+        "value": "Ra 0.2 μm"
+      },
+      {
+        "label": "Hardness",
+        "value": "HRC 58-63"
+      }
+    ],
+    "socialProof": "⭐️⭐️⭐️⭐️⭐️ 4.9/250+ audits"
+  },
+  "sections": {
+    "competencies": {
+      "title": "Core Competencies",
+      "items": [
+        {
+          "title": "Design & CAE",
+          "description": [
+            "FEM/CFD optimization",
+            "Tolerance stack-up analysis",
+            "Rapid prototype validation"
+          ],
+          "tooltip": "Abaqus, Ansys, Siemens NX CAE"
+        },
+        {
+          "title": "CNC Machining",
+          "description": [
+            "5-axis HSC milling & turning",
+            "Palletized production cells",
+            "In-process probing"
+          ],
+          "tooltip": "Hermle, DMG Mori, Mazak"
+        },
+        {
+          "title": "Heat Treatment",
+          "description": [
+            "Vacuum hardening",
+            "Low distortion tempering",
+            "Cryogenic stabilization"
+          ],
+          "tooltip": "AMS 2750, NADCAP ready"
+        },
+        {
+          "title": "Gear & Rotor",
+          "description": [
+            "AGMA Q13 accuracy",
+            "Helical & planetary gears",
+            "Rotor balancing G2.5"
+          ],
+          "tooltip": "Klingelnberg & Hofler lines"
+        },
+        {
+          "title": "Quality & Test",
+          "description": [
+            "CMM + laser scanning",
+            "UT/MT/PT NDT",
+            "ISO 1940-1 dynamic balance"
+          ],
+          "tooltip": "Zeiss ACCURA, Waygate UT"
+        }
+      ],
+      "subtitle": "End-to-end expertise across FEM, CNC, heat treatment, and quality."
+    },
+    "process": {
+      "title": "Outcome-Driven Process",
+      "steps": [
+        {
+          "title": "Discovery",
+          "description": "RFQ intake, requirement capture, KPI definition.",
+          "deliverable": "Risk matrix & quotation"
+        },
+        {
+          "title": "Design",
+          "description": "CAD/CAE iterations, DFMA & APQP planning.",
+          "deliverable": "Approved design package"
+        },
+        {
+          "title": "Prototype",
+          "description": "Rapid sample build, CMM and FAI reporting.",
+          "deliverable": "FAI dossier"
+        },
+        {
+          "title": "Production",
+          "description": "Serial production with SPC monitoring and full traceability.",
+          "deliverable": "Lot traveler & SPC data"
+        },
+        {
+          "title": "Testing",
+          "description": "UT/MT/PT, balancing, pressure and leak tests.",
+          "deliverable": "Certified quality reports"
+        },
+        {
+          "title": "Logistics",
+          "description": "Custom packaging, ITAR compliant shipments.",
+          "deliverable": "CoC & logistics manifest"
+        }
+      ],
+      "deliverableLabel": "Deliverable",
+      "subtitle": "We share deliverables transparently and manage KPIs proactively at each phase."
+    },
+    "certifications": {
+      "title": "Quality & Certifications",
+      "description": "We de-risk your supply chain with globally recognized approvals.",
+      "items": [
+        {
+          "name": "ISO 9001",
+          "file": "/downloads/iso9001.pdf"
+        },
+        {
+          "name": "ISO 1940-1",
+          "file": "/downloads/iso1940-1.pdf"
+        },
+        {
+          "name": "API 619",
+          "file": "/downloads/api619.pdf"
+        },
+        {
+          "name": "EN 10228-3",
+          "file": "/downloads/en10228-3.pdf"
+        }
+      ]
+    },
+    "projects": {
+      "title": "Highlighted Case Studies",
+      "items": [
+        {
+          "name": "Aerospace Turbopump",
+          "problem": "Rotor tolerances ±0.01 mm at elevated temperatures.",
+          "approach": "5-axis simultaneous machining with in-process probing.",
+          "result": "32% efficiency gain, G2.5 balance, HRC 62.",
+          "metrics": "Ra 0.2 μm, 18-day turnaround",
+          "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "name": "Oil & Gas Compressor",
+          "problem": "API 619 compliant gearbox vibration mitigation.",
+          "approach": "AGMA Q13 grind finishing with UT & MT validation.",
+          "result": "28% vibration reduction, 22-day delivery.",
+          "metrics": "Balance G1 @ 3600 rpm",
+          "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "name": "Energy Turbine Disc",
+          "problem": "Low distortion performance at 800°C operation.",
+          "approach": "Vacuum heat treatment plus cryogenic stabilization.",
+          "result": "HRC 63, dimensional drift ±0.008 mm.",
+          "metrics": "Ra 0.4 μm, 24-day delivery",
+          "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80"
+        }
+      ],
+      "labels": {
+        "problem": "Challenge",
+        "approach": "Approach",
+        "result": "Outcome"
+      },
+      "subtitle": "Measurable outcomes across challenge → approach → result."
+    },
+    "facility": {
+      "title": "Facility & Machine Park",
+      "description": "1280 m² climate-controlled facility with automated logistics and 5-axis cells.",
+      "machines": [
+        {
+          "machine": "Hermle C52 U MT",
+          "envelope": "Ø1000 x 800 mm",
+          "precision": "±0.008 mm",
+          "count": 3,
+          "note": "5-axis mill/turn"
+        },
+        {
+          "machine": "DMG Mori DMU 75",
+          "envelope": "750 x 650 x 560 mm",
+          "precision": "±0.01 mm",
+          "count": 4,
+          "note": "Palletized cell"
+        },
+        {
+          "machine": "Mazak Integrex i-300",
+          "envelope": "Ø610 x 1519 mm",
+          "precision": "±0.01 mm",
+          "count": 2,
+          "note": "Hybrid machining"
+        },
+        {
+          "machine": "Zeiss Accura CMM",
+          "envelope": "900 x 1200 x 800 mm",
+          "precision": "±0.003 mm",
+          "count": 2,
+          "note": "Metrology"
+        },
+        {
+          "machine": "Schenck CAB 9200",
+          "envelope": "Ø1500 mm",
+          "precision": "G1 @ 5000 rpm",
+          "count": 1,
+          "note": "Dynamic balancing"
+        }
+      ],
+      "columns": {
+        "machine": "Machine",
+        "envelope": "Envelope",
+        "precision": "Precision",
+        "count": "Qty",
+        "note": "Notes"
+      }
+    },
+    "sectors": {
+      "title": "Industries Served",
+      "items": [
+        {
+          "name": "Aerospace",
+          "description": "Full traceability with EASA Part 21G workflows.",
+          "metrics": "100% FAI, ITAR compliant"
+        },
+        {
+          "name": "Energy",
+          "description": "24/7 uptime assurance on gas & steam turbine components.",
+          "metrics": "99% uptime"
+        },
+        {
+          "name": "Oil & Gas",
+          "description": "API, NACE, and GOST certified high-pressure parts.",
+          "metrics": "HPHT approved"
+        },
+        {
+          "name": "Defense",
+          "description": "ITAR/AS9100-aligned precision systems.",
+          "metrics": "MIL-STD 810 qualified"
+        },
+        {
+          "name": "Industrial Machinery",
+          "description": "High-torque gear and rotor systems.",
+          "metrics": "AGMA Q13"
+        }
+      ],
+      "subtitle": "Aligned workflows for procurement, quality, and engineering teams."
+    },
+    "clients": {
+      "title": "Trusted By",
+      "logos": [
+        "AeroDynamics",
+        "EnerTech",
+        "PetroCore",
+        "DefSecure",
+        "MachinaPro",
+        "Orbit Systems"
+      ]
+    },
+    "blog": {
+      "title": "Technical Insights",
+      "items": [
+        {
+          "title": "Comparing ISO 1940-1 Balance Classes",
+          "excerpt": "A practical breakdown of G2.5 versus G1 performance with process data.",
+          "date": "2024-05-12",
+          "readingTime": "6 min read",
+          "slug": "iso-1940-1-balance"
+        },
+        {
+          "title": "Boosting Pump Efficiency 18% with CFD",
+          "excerpt": "How multiphase flow models increased rotor performance.",
+          "date": "2024-04-02",
+          "readingTime": "8 min read",
+          "slug": "cfd-pump-efficiency"
+        },
+        {
+          "title": "Measurable KPIs in AGMA Q13 Gear Manufacturing",
+          "excerpt": "Closing the loop with SPC and automated metrology.",
+          "date": "2024-03-18",
+          "readingTime": "5 min read",
+          "slug": "agma-q13-kpis"
+        }
+      ],
+      "cta": "View all insights",
+      "subtitle": "Technical essays with standard benchmarks, process optimization, and quantifiable metrics.",
+      "read": "Read"
+    },
+    "careers": {
+      "title": "Careers & Culture",
+      "description": "Join cross-disciplinary teams building the future of advanced manufacturing.",
+      "positions": [
+        {
+          "title": "Senior CNC Lead",
+          "location": "Izmir",
+          "type": "Full-time",
+          "summary": "Manage 5-axis cells and toolpath optimization.",
+          "id": "senior-cnc"
+        },
+        {
+          "title": "Materials & Process Engineer",
+          "location": "Izmir",
+          "type": "Full-time",
+          "summary": "Own heat-treatment recipes and material characterization.",
+          "id": "materials-process"
+        }
+      ],
+      "cta": "Careers Portal",
+      "apply": "Apply"
+    },
+    "rfq": {
+      "title": "RFQ / Quote Request",
+      "description": "Share your CAD package to receive a tolerance-anchored quotation within 24 hours.",
+      "steps": [
+        "Company Info",
+        "Part Type",
+        "Material",
+        "Quantity",
+        "Tolerance / Ra",
+        "Upload Files",
+        "Lead Time & Incoterms",
+        "Submit"
+      ],
+      "success": "Thank you! Our technical team will respond within 24 hours.",
+      "errors": {
+        "required": "This field is required",
+        "email": "Enter a valid email",
+        "file": "Supported formats: .step, .iges, .dxf, .pdf",
+        "size": "File size must be under 200MB",
+        "captcha": "reCAPTCHA validation failed"
+      },
+      "buttons": {
+        "prev": "Back",
+        "next": "Next",
+        "submit": "Submit"
+      },
+      "labels": {
+        "company": "Company Name",
+        "email": "Work Email",
+        "phone": "Phone",
+        "partType": "Part Type",
+        "toleranceClass": "Tolerance Class",
+        "material": "Material",
+        "message": "Notes",
+        "quantity": "Quantity",
+        "leadTime": "Lead Time",
+        "tolerance": "Tolerance / Ra",
+        "incoterms": "Incoterms",
+        "files": "CAD / Technical Docs",
+        "captcha": "reCAPTCHA"
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Engineering offices spanning two continents.",
+      "offices": [
+        {
+          "name": "Headquarters",
+          "address": "AOSB 10044 St. No:12 Cigli / Izmir",
+          "hours": "Weekdays 08:00-18:00",
+          "phone": "+90 232 000 00 00"
+        },
+        {
+          "name": "Moscow Technical Office",
+          "address": "Leninskiy Prospekt 45, Moscow",
+          "hours": "Weekdays 09:00-17:00",
+          "phone": "+7 495 123 45 67"
+        }
+      ],
+      "notice": "SPF/DKIM alignment and reCAPTCHA protection are enabled."
+    }
+  },
+  "footer": {
+    "rights": "© AEM Precision 2024. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}
