@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @jalilahmadli1998
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift
-- 📫 How to reach me ...
+# Project Structure
 
-<!---
-jalilahmadli1998/jalilahmadli1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+All application sources and configuration files are located inside the [`project/`](project/) directory. Change into that folder to install dependencies, run the Next.js development server, execute tests, or build for production.
+
+```bash
+cd project
+npm install
+npm run dev
+```
+
+Refer to [`project/README.md`](project/README.md) for full setup, deployment, and content management instructions.
